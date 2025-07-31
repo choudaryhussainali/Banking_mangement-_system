@@ -10,28 +10,62 @@ st.set_page_config(page_title="ONE-TO-ONE Bank", layout="wide")
 # Custom CSS
 st.markdown("""
     <style>
+        /* App background */
         .main {
             background-color: #f2f4f8;
         }
+
+        /* Styled buttons */
         .stButton>button {
             background-color: #0e76a8;
             color: white;
             border-radius: 8px;
             font-weight: bold;
         }
+
+        /* Rounded text inputs */
         .stTextInput>div>div>input {
             border-radius: 6px;
         }
+
+        /* Spacing between radio buttons */
         .stRadio > div {
             gap: 1rem;
         }
+
+        /* Big headline font */
         .big-font {
             font-size: 30px !important;
             color: #0e76a8;
             font-weight: bold;
         }
+
+        /* --- New Tab Styling Below --- */
+
+        /* Center the tab bar */
+        .stTabs [data-baseweb="tab-list"] {
+            justify-content: center;
+            flex-wrap: wrap;
+            row-gap: 0.5rem;
+        }
+
+        /* Shrink tabs to fit content and center text inside them */
+        .stTabs [data-baseweb="tab"] {
+            min-width: auto !important;
+            max-width: max-content !important;
+            font-weight: 600;
+            padding: 0.4rem 0.9rem;
+            white-space: nowrap;
+        }
+
+        /* Center headers inside each tab */
+        h1, h2, h3 {
+            text-align: center;
+        }
+            
     </style>
 """, unsafe_allow_html=True)
+
 
 # --------- Database Handling ---------
 DATABASE = 'data.json'
@@ -112,13 +146,14 @@ def delete_user(acc_no, pin):
 
 # --------- UI ---------
 st.markdown(
-    "<h1 style='text-align: center; color: #0e76a8;'>🏦 ONE-TO-ONE Bank</h1>",
+    "<h1 style='text-align: center; color: #0e76a8;'> ONE-TO-ONE Bank</h1>",
     unsafe_allow_html=True
 )
 st.markdown('<p style="text-align: center;">Your Secure Digital Banking Partner</p>', unsafe_allow_html=True)
 
-col1, col2, col3 = st.columns([1, 8, 1])
-with col2:
+st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
+center_col = st.columns([1.5, 5, 1.5])[1]
+with center_col:
     tabs = st.tabs([
         "🏠 Home", 
         "➕ Create Account", 
@@ -128,13 +163,17 @@ with col2:
         "✏️ Update Account", 
         "🗑️ Delete Account"
     ])
+st.markdown("</div>", unsafe_allow_html=True)
+
 # --------- Home Tab ---------
 with tabs[0]:
-    st.image("I:\Python Projects-Github\Banking management system\pexels-mayday-1398431.jpg", use_container_width=True)
-    st.markdown("Welcome to ONE-TO-ONE Bank — a simple, secure, and modern banking experience!")
+    st.image("I:\Python Projects-Github\Banking management system\image-Photoroom.png", use_container_width=True)
+    st.markdown('<p style="text-align: center;">Welcome to ONE-TO-ONE Bank — a simple, secure, and modern banking experience!</p>', unsafe_allow_html=True)
+  
 
 # --------- Create Account Tab ---------
 with tabs[1]:
+
     st.header("➕ Create a New Account")
     name = st.text_input("Enter your Name")
     age = st.number_input("Enter your Age", min_value=1)
