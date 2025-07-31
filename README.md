@@ -1,4 +1,4 @@
-# 🏦 ONE-TO-ONE Bank
+#  ONE-TO-ONE Bank
 
 > **A sleek, secure digital banking system built using Streamlit. Perform deposits, withdrawals, account creation, and more — all in a clean and interactive interface.**
 
@@ -165,18 +165,12 @@ one-to-one-bank/
 
 ## 🖼️ Screenshots
 
-![Capture](<img width="1366" height="1090" alt="2" src="https://github.com/user-attachments/assets/7c6cd99d-8d04-4ffc-a95a-3a34f1551c17" />
-)
-![Capture2](<img width="1366" height="997" alt="3" src="https://github.com/user-attachments/assets/79f7c892-1f11-47c4-9eef-9e623c8961bc" />
-)
-![Capture3](<img width="1366" height="997" alt="4" src="https://github.com/user-attachments/assets/41629eb4-ec0a-4cc5-90d9-55304ca627bc" />
-)
-![Capture4](<img width="1366" height="905" alt="5" src="https://github.com/user-attachments/assets/a8760b26-7cf0-4710-8d7a-ad58995f2259" />
-)
-![Capture5](<img width="1366" height="1090" alt="6" src="https://github.com/user-attachments/assets/a3088858-4cf5-416c-9b2c-aac96f4a4016" />
-)
-![Capture6](<img width="1366" height="905" alt="7" src="https://github.com/user-attachments/assets/308a9337-6e28-4189-8356-631cd07a2f20" />
-)
+![Capture](https://github.com/user-attachments/assets/7c6cd99d-8d04-4ffc-a95a-3a34f1551c17)
+![Capture2](https://github.com/user-attachments/assets/79f7c892-1f11-47c4-9eef-9e623c8961bc)
+![Capture3](https://github.com/user-attachments/assets/41629eb4-ec0a-4cc5-90d9-55304ca627bc)
+![Capture4](https://github.com/user-attachments/assets/a8760b26-7cf0-4710-8d7a-ad58995f2259")
+![Capture5](https://github.com/user-attachments/assets/a3088858-4cf5-416c-9b2c-aac96f4a4016)
+![Capture6](https://github.com/user-attachments/assets/308a9337-6e28-4189-8356-631cd07a2f20)
 
 ---
 
