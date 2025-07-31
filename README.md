@@ -8,8 +8,7 @@
 
 ---
 
-![Banking App Screenshot](<img width="1366" height="1321" alt="1" src="https://github.com/user-attachments/assets/106efde2-ed76-4eb0-8f58-723b60646949" />
-)
+![Banking App Screenshot](https://github.com/user-attachments/assets/106efde2-ed76-4eb0-8f58-723b60646949)
 
 ---
 
