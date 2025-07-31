@@ -8,7 +8,7 @@
 
 ---
 
-![Banking App Screenshot](<img width="1366" height="1321" alt="1" src="https://github.com/user-attachments/assets/aac13712-d000-40ac-b8d1-84f37bbaf53d" />
+![Banking App Screenshot](<img width="1366" height="1321" alt="1" src="https://github.com/user-attachments/assets/106efde2-ed76-4eb0-8f58-723b60646949" />
 )
 
 ---
@@ -166,23 +166,17 @@ one-to-one-bank/
 
 ## 🖼️ Screenshots
 
-## ![Screenshot 1](<img width="1366" height="1090" alt="2" src="https://github.com/user-attachments/assets/b9d618d1-aae1-4645-bd14-67e18692670b" />
+![Capture](<img width="1366" height="1090" alt="2" src="https://github.com/user-attachments/assets/7c6cd99d-8d04-4ffc-a95a-3a34f1551c17" />
 )
-
-## ![Screenshot 2](<img width="1366" height="997" alt="3" src="https://github.com/user-attachments/assets/bfc3ae8d-7ee7-494b-836e-dd2962cf9744" />
+![Capture2](<img width="1366" height="997" alt="3" src="https://github.com/user-attachments/assets/79f7c892-1f11-47c4-9eef-9e623c8961bc" />
 )
-
-## ![Screenshot 3](<img width="1366" height="997" alt="4" src="https://github.com/user-attachments/assets/d2af8138-2537-43e8-bb4a-ac282f1183e1" />
+![Capture3](<img width="1366" height="997" alt="4" src="https://github.com/user-attachments/assets/41629eb4-ec0a-4cc5-90d9-55304ca627bc" />
 )
-
-## ![Screenshot 4](<img width="1366" height="905" alt="5" src="https://github.com/user-attachments/assets/91925028-fc62-46e5-99eb-fce8480542c9" />
+![Capture4](<img width="1366" height="905" alt="5" src="https://github.com/user-attachments/assets/a8760b26-7cf0-4710-8d7a-ad58995f2259" />
 )
-
-## ![Screenshot 5](<img width="1366" height="1090" alt="6" src="https://github.com/user-attachments/assets/81dd4d08-814f-4c03-9855-18d56753e7a4" />
+![Capture5](<img width="1366" height="1090" alt="6" src="https://github.com/user-attachments/assets/a3088858-4cf5-416c-9b2c-aac96f4a4016" />
 )
-
-## ![Screenshot 6](<img width="1366" height="905" alt="7" src="https://github.com/user-attachments/assets/2cfe4e41-5d89-44b1-bff1-a92fe9be2959" />
-
+![Capture6](<img width="1366" height="905" alt="7" src="https://github.com/user-attachments/assets/308a9337-6e28-4189-8356-631cd07a2f20" />
 )
 
 ---
