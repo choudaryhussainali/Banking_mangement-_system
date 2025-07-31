@@ -167,7 +167,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # --------- Home Tab ---------
 with tabs[0]:
-    st.image("I:\Python Projects-Github\Banking management system\image-Photoroom.png", use_container_width=True)
+    st.image("image-Photoroom.png", use_container_width=True)
     st.markdown('<p style="text-align: center;">Welcome to ONE-TO-ONE Bank — a simple, secure, and modern banking experience!</p>', unsafe_allow_html=True)
   
 
